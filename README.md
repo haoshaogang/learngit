@@ -5,3 +5,4 @@ added a new branch mybranch
 on master branch now
 creating a new branch is quick and simple.
 on mybranch again
+to stash 
